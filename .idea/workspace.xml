@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0ba444f-b2e0-4e39-9045-2a1cde6e5aee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1nuslFBnjpxBcgdhMgF3L0iXnFO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build suvvm.work/tf_idf" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="tf_idf" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="suvvm.work/tf_idf" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build suvvm.work/tf_idf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="378" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612253596615">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="480" y="378" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.797@0.23.1440.797" timestamp="1612253596615" />
+    <state width="960" height="244" key="GridCell.Tab.0.bottom" timestamp="1612271200132">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state width="960" height="244" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1612271200132" />
+    <state width="960" height="244" key="GridCell.Tab.0.center" timestamp="1612271200130">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state width="960" height="244" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1612271200130" />
+    <state width="960" height="244" key="GridCell.Tab.0.left" timestamp="1612271200130">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state width="960" height="244" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1612271200129" />
+    <state width="960" height="244" key="GridCell.Tab.0.right" timestamp="1612271200131">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state width="960" height="244" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1612271200131" />
+    <state x="199" y="98" key="SettingsEditor" timestamp="1612252058089">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="199" y="98" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1612252058089" />
+  </component>
+</project>
