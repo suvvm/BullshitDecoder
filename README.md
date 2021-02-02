@@ -1,0 +1,26 @@
+# TF-IDF算法实现
+处理狗屁不通文章生成器文章并提取文章关键词。使用gojieba处理文件进行分词，使用TF-IDF算法提取关键词。
+```
+doc1关键词为——宋健
+    doc2关键词为——肥迪
+    doc3关键词为——肥豪
+    doc4关键词为——郭一
+    doc5关键词为——房V
+    doc6关键词为——朱捞
+    doc7关键词为——同德
+    doc8关键词为——捞驴
+    doc8关键词为——虫虫
+```
+运算结果
+```
+./resources/doc1.txt:宋健
+./resources/doc2.txt:肥迪
+./resources/doc3.txt:肥豪
+./resources/doc4.txt:郭一
+./resources/doc5.txt:V
+./resources/doc6.txt:朱捞
+./resources/doc7.txt:同德
+./resources/doc8.txt:驴
+./resources/doc9.txt:虫虫
+```
+当前doc5与doc8结果不准确主要原因为gojieba分词不够准确，可以提前对其进行训练，使其词库中出现捞驴、房V即可
