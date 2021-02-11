@@ -28,6 +28,7 @@ type Doc struct {
 	TFIDF map[string]float64	// 词频-逆文档频率
 }
 
+// InitDoc read file from path
 func (d *Doc) InitDoc(path string) {
 	file, err := os.Open(path)
 	if err != nil {
